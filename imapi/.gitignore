@@ -1,0 +1,9 @@
+.idea
+*.iml
+/swagger/swagger.json
+/routers/commentsRouter_controllers.go
+imapi.exe
+*.exe
+lastupdate.tmp
+/swagger/swagger.yml
+
